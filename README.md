@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ta9m
-- 👀 I’m interested in mathematics.
-- 🌱 I’m currently learning set theory.
+- 👋 Hi, I’m set.
